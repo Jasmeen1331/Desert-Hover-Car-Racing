@@ -7,13 +7,13 @@
 
 ## Overview
 
-A 3D hover car racing game featuring realistic physics simulation, collision detection, and a multi-stage checkpoint system set in a desert environment. Built using the TL-Engine for the CO1301 Games Concepts module at University of Central Lancashire.
+A 3D hover car racing game featuring realistic physics simulation, collision detection, and a multi-stage checkpoint system set in a desert environment. Built using the TL-Engine for the games programming project at University of Central Lancashire.
 
 The game challenges players to navigate a hover car through a desert racetrack, passing through checkpoints in sequence while avoiding obstacles such as walls and isle barriers. The implementation demonstrates key game development concepts including vector-based movement, manual chase camera, and state-driven gameplay.
 
 ## Academic Context
 
-**Module**: CO1301 - Games Concepts 2023-2024  
+**Module**:  - Games Concepts 2023-2024  
 **Assignment**: Assignment 2  
 **Institution**: University of Central Lancashire  
 **Student**: Jasmeen (ID: 21236862)  
@@ -218,7 +218,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Final Year Computer Science Student  
 University of Central Lancashire
 
-Module: CO1301 - Games Concepts  
+Module:  - Games Concepts  
 Academic Year: 2023-2024
 
 ## Acknowledgments
